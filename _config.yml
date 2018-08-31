@@ -1,1 +1,8 @@
 theme: jekyll-theme-minimal
+
+languages: ["ru", "en"]
+exclude_from_localizations: ["assets", "CNAME"]
+defaultLang: ru
+languageNames:
+  ru: Russian
+  en: English
