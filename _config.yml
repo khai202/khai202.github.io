@@ -1,5 +1,8 @@
 theme: jekyll-theme-minimal
 
+gems:
+- jekyll-language-plugin
+
 languages: ["ru", "en"]
 exclude_from_localizations: ["assets", "CNAME"]
 defaultLang: ru
