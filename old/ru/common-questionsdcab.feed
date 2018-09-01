@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! 1.5 - Open Source Content Management" -->
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Общие вопросы</title>
+		<description>Кафедра 202 Теоретической механики, машиноведения и роботомеханических систем</description>
+		<link>http://khai202.ho.ua/ru/common-questions/4.html</link>
+		<lastBuildDate>Sat, 01 Sep 2018 17:01:29 +0000</lastBuildDate>
+		<generator>Joomla! 1.5 - Open Source Content Management</generator>
+		<language>ru-ru</language>
+		<item>
+			<title>В каком порядке надо записывать стандартные изделия?</title>
+			<link>http://khai202.ho.ua/ru/common-questions/4-obshhie-voprosy/4-v-kakom-poryadke-nado-zapisyvat-standartnye-izdeliya.html</link>
+			<guid>http://khai202.ho.ua/ru/common-questions/4-obshhie-voprosy/4-v-kakom-poryadke-nado-zapisyvat-standartnye-izdeliya.html</guid>
+			<description><![CDATA[<p>В соответствии с ГОСТ     все стандартные изделия группируют по назначению, например: крепёж (болты, винты, гайки, шайбы, шпильки, штифты и т.д.), подшипники, уплотнения, муфты и т.д. Порядок следования групп может быть произвольным. Затем, в пределах одной группы, изделия располагают в порядке возрастания: по алфавиту, при одинаковом наименовании – по первому размеру, при равенстве первого – по  второму, третьему (если есть), ГОСТу.</p>
+<p><img src="http://khai202.ho.ua/files/images/faq/specification.jpg" border="0" alt="Порядок записи стандартных изделий" width="690" /></p>]]></description>
+			<category>Общие вопросы</category>
+			<pubDate>Sat, 03 Jul 2010 10:24:05 +0000</pubDate>
+		</item>
+		<item>
+			<title>Как нумеруются детали на сборочном чертеже?</title>
+			<link>http://khai202.ho.ua/ru/common-questions/4-obshhie-voprosy/1--.html</link>
+			<guid>http://khai202.ho.ua/ru/common-questions/4-obshhie-voprosy/1--.html</guid>
+			<description><![CDATA[<p>Они нумеруются в порядке записи их в спецификации. Сначала идут номера сборочных единиц (если они есть, конечно), затем в произвольном порядке записывают оригинальные детали, далее – стандартные изделия. О порядке расположения стандартных элементов см. здесь.<br />
+Удобно между разделами оставлять несколько номеров «на вырост», т.е. если номер последней детали 10, то первой стандартной детали присвоить не 11-й номер, а, скажем, 20-й. Тогда при появлении «новых» (а новые – это обычно хорошо забытые при составлении спецификации) деталей, не надо перенумеровывать весь список стандартных деталей в спецификации и на чертеже.</p>]]></description>
+			<category>Общие вопросы</category>
+			<pubDate>Sat, 05 Jun 2010 16:59:49 +0000</pubDate>
+		</item>
+	</channel>
+</rss>

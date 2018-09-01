@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! 1.5 - Open Source Content Management" -->
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Notices</title>
+		<description>Кафедра 202 Теоретической механики, машиноведения и роботомеханических систем</description>
+		<link>http://khai202.ho.ua/en/notices.html</link>
+		<lastBuildDate>Sat, 01 Sep 2018 17:01:51 +0000</lastBuildDate>
+		<generator>Joomla! 1.5 - Open Source Content Management</generator>
+		<language>en-gb</language>
+		<item>
+			<title>Classes timetable</title>
+			<link>http://khai202.ho.ua/en/notices/255-raspisanie-par.html</link>
+			<guid>http://khai202.ho.ua/en/notices/255-raspisanie-par.html</guid>
+			<description><![CDATA[<p>for the second half of the second semester was published in Timetable/<a href="http://khai202.ho.ua/index.php?Itemid=14">Classes</a>.</p>]]></description>
+			<author>panasenko.oleksandr@gmail.com (Administrator)</author>
+			<category>Объявления</category>
+			<pubDate>Fri, 16 Mar 2018 22:00:00 +0000</pubDate>
+		</item>
+		<item>
+			<title>Наша группа на Facebook</title>
+			<link>http://khai202.ho.ua/en/notices/297-nasha-gruppa-na-facebook.html</link>
+			<guid>http://khai202.ho.ua/en/notices/297-nasha-gruppa-na-facebook.html</guid>
+			<description><![CDATA[<p />
+Надеемся, <a href="https://www.facebook.com/groups/429593030705497/">здесь </a> будет интересно
+<p />]]></description>
+			<author>koweza@mail.ru (Ковеза Юрий Владимирович, доцент, к.т.н.)</author>
+			<category>Объявления</category>
+			<pubDate>Fri, 27 Jan 2017 15:04:16 +0000</pubDate>
+		</item>
+	</channel>
+</rss>

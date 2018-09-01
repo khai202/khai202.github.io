@@ -1,0 +1,65 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-gb" lang="en-gb" dir="ltr">
+<head>
+	<title>500 - Error: 500</title>
+	<link rel="stylesheet" href="/templates/kaf202/css/reset.css" type="text/css" />
+	<link rel="stylesheet" href="/templates/kaf202/css/error.css" type="text/css" />
+	<!-- GOOGLE ANALYTICS -->
+	<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-20079106-2']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+	</script>
+</head>
+<body>
+	<div class="l-height">
+		<div class="header">
+			<div class="logo-en">
+				<a href="/en/index.html"><img src="/templates/kaf202/images/logo.png" alt="Логотип ХАІ, кафедра 202" height="86" /></a>
+			</div>
+		</div>
+		<div class="main-content">
+			<div class="b-error">
+				<div class="b-error-image">&nbsp;</div>
+				<div class="b-error-404">500</div>
+				<div class="b-error-advice">
+					<p>К сожалению, запрошенной вами страницы не существует.</p>
+					<p>Вы можете:</p>
+					<ul>
+						<li><span>вписать правильно адрес;</span></li>
+						<li><span>перейти на</span> <a href="http://www.khai202.ho.ua/">главную страницу;</a></li>
+						<li><span>обратиться к администратору:</span>  <span class="icq">469-145-590.</span></li>
+					</ul>
+				</div>
+				<p class="b-error-image-description">* Карданный болт: для отверстий с произвольным углом.</p>
+			</div>
+		</div>
+	</div>
+	
+	<div id="wrapper">
+		<jdoc:include type="modules" name="languages" style="none" />
+		<div id="header">
+			<h1 id="logo">
+				<a href="/en/index.html"></a>
+				<span>SITENAME</span>
+			</h1>
+			<jdoc:include type="modules" name="login" style="xhtml" />
+		</div>
+		
+		<div id="content-wrapper">
+			<div id="content">
+				<jdoc:include type="modules" name="breadcrumb" style="none" />
+				<jdoc:include type="message" />
+				<jdoc:include type="component" />
+			</div>
+		</div>
+	</div>
+	<div id="footer">&copy; 1930&mdash;2018 COPYRIGHT</div>
+</body>
+</html>
