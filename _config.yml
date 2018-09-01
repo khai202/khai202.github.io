@@ -10,7 +10,7 @@ remote_theme             : "mmistakes/minimal-mistakes"
 minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale                   : "ru"
+locale                   : "ru-RU"
 title                    : "Кафедра 202"
 title_separator          : "-"
 name                     : &name "НАУ ХАИ" # &name is a YAML anchor which can be *referenced later
