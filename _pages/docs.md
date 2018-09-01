@@ -4,7 +4,6 @@ title: Учебные пособия
 author_profile: false
 toc: true
 toc_label: "Содержание"
-layout: "default"
 ---
 ## ДМ
 ### Как сделать?
