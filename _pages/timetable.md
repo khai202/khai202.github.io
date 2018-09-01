@@ -1,5 +1,6 @@
 ---
 title: Расписание
 author_profile: false
+permalink: /timetable
 ---
-# Расписание
+# Расписание 1
