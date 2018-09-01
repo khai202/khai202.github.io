@@ -5,7 +5,7 @@ excerpt: "Теоретическая механика, машиноведени�
 author_profile: false
 layout: splash
 header:
-  overlay_color: "#86c8ff"
+  overlay_color: "#0192ca"
   overlay_image: /assets/images/mm-home-page-feature.jpg
   cta_label:
   cta_url:
