@@ -2,3 +2,7 @@
 main:
   - title: "Расписание"
     url: /timetable/
+  - title: "Учебные пособия"
+    url: /docs/
+  - title: "Бланки"
+    url: /blanks/
