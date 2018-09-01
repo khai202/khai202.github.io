@@ -13,7 +13,7 @@ toc_label: "Содержание"
 - Порядок построения упорной резьбы в SolidWorks [скачать](https://drive.google.com/open?id=1zZrjI8gu-OLmhMEJoxK23TLMXPVAPvOd)
 
 ### Конспект лекций по ДМ и ОК
-Часть 1: Введение. Критерии работоспособности [скачать](https://github.com/khai202/dme/raw/master/es/es_dme_lectures_p1_rus.zip)
-Часть 2: Соединения [скачать](https://github.com/khai202/dme/raw/master/es/es_dme_lectures_p2_rus.zip)
-Часть 3: Передачи [скачать](https://github.com/khai202/dme/raw/master/es/es_dme_lectures_p3_rus.zip)
-Часть 4: Валы, подшипники и муфты [скачать](https://github.com/khai202/dme/raw/master/es/es_dme_lectures_p4_rus.zip)
+- Часть 1: Введение. Критерии работоспособности [скачать](https://github.com/khai202/dme/raw/master/es/es_dme_lectures_p1_rus.zip)
+- Часть 2: Соединения [скачать](https://github.com/khai202/dme/raw/master/es/es_dme_lectures_p2_rus.zip)
+- Часть 3: Передачи [скачать](https://github.com/khai202/dme/raw/master/es/es_dme_lectures_p3_rus.zip)
+- Часть 4: Валы, подшипники и муфты [скачать](https://github.com/khai202/dme/raw/master/es/es_dme_lectures_p4_rus.zip)
