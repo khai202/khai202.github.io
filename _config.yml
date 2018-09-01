@@ -13,13 +13,13 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 locale                   : "ru"
 title                    : "Кафедра 202"
 title_separator          : "-"
-name                     : &name "Alex Panasenko" # &name is a YAML anchor which can be *referenced later
+name                     : &name "НАУ ХАИ" # &name is a YAML anchor which can be *referenced later
 description              : &description "Теоретической механики, машиноведения и роботомеханических систем."
 url                      : https://khai202.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "/" # the subpath of your site, e.g. "/blog"
 repository               : "khai202/khai202.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-# breadcrumbs            : false # true, false (default)
+breadcrumbs            : true # true, false (default)
 words_per_minute         : 200
 comments:
   provider               : "staticman_v2" # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman_v2", "staticman" "custom"
@@ -73,8 +73,6 @@ yandex_site_verification :
 naver_site_verification  :
 
 # Social Sharing
-twitter:
-  username               : &twitter "mmistakes"
 facebook:
   username               : &facebook "michaelrose"
   app_id                 :
@@ -86,7 +84,6 @@ social:
   type                   : # Person or Organization (defaults to Person)
   name                   : # If the user or organization name differs from the site's name
   links: # An array of links to social media profiles
-    - "https://twitter.com/mmistakes"
     - "https://facebook.com/michaelrose"
 
 # Analytics
