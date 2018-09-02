@@ -4,6 +4,7 @@ title: Учебные пособия
 author_profile: false
 toc: true
 toc_label: "Содержание"
+toc_sticky: true
 ---
 ## ДМ
 ### Как сделать?
