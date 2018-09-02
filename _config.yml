@@ -19,7 +19,7 @@ url                      : https://khai202.github.io # the base hostname & proto
 baseurl                  : "/" # the subpath of your site, e.g. "/blog"
 repository               : "khai202/khai202.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-breadcrumbs            : false # true, false (default)
+breadcrumbs            : true # true, false (default)
 words_per_minute         : 200
 comments:
   provider               : "staticman_v2" # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman_v2", "staticman" "custom"
